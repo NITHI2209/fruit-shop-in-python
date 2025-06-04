@@ -1,4 +1,4 @@
-print("WELCOME TO NITHI'S FRUIT SHOP")
+print("WELCOME TO NILA'S FRUIT SHOP")
 fruits=[]
 sold_fruits=[]
 collected_amount=0
